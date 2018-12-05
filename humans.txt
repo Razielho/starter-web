@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    raz horovitz   raz@mail  @raz
 
 # THANKS
 
