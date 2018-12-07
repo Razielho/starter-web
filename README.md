@@ -20,7 +20,7 @@ simple examples for Git training demos.
 
 ## Deployment
 
-This is a simple web project, deployment can be on any 
+This is a  simple web project, deployment can be on any 
 web server or even local file system
 
 ## How to Contribute
@@ -28,4 +28,4 @@ web server or even local file system
 Please fork this repository and then issue Pull Requests for review
 ### Copyright
 
-2018 Git.training
+2018 Git.training All rights reserved
